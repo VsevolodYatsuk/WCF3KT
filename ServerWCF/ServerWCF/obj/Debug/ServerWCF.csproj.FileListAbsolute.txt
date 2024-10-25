@@ -1,0 +1,7 @@
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\bin\Debug\ServerWCF.exe.config
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\bin\Debug\ServerWCF.exe
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\bin\Debug\ServerWCF.pdb
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\obj\Debug\ServerWCF.csproj.AssemblyReference.cache
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\obj\Debug\ServerWCF.csproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\obj\Debug\ServerWCF.exe
+C:\Users\andry\source\repos\ServerWCF\ServerWCF\obj\Debug\ServerWCF.pdb
